@@ -12,7 +12,9 @@ $> git clone https://github.com/bmoiroud/fractol.git && cd fractol && make
 
 ## usage
 
-./fractol <fractal_number>
+```
+$> ./fractol <fractal_number>
+```
 
 | Key         | Action         |
 |:-----------:|:---------------|
