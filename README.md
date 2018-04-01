@@ -6,13 +6,13 @@ This project is meant to create fractals
 
 ## Installation
 
-```
+``` bash
 $> git clone https://github.com/bmoiroud/fractol.git && cd fractol && make
 ```
 
 ## usage
 
-```
+``` bash
 $> ./fractol <fractal_number>
 ```
 
