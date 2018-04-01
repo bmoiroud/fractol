@@ -4,6 +4,8 @@
 
 This project is meant to create fractals
 
+<img src="./img/img.png"/>
+
 ## Installation
 
 ``` bash
