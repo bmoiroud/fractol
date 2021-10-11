@@ -1,8 +1,8 @@
 # Fract'ol
 
-## Project Overview
+## Description
 
-This project is meant to create fractals
+Ce projet a pour but de créer des fractales
 
 <img src="./img/img.png"/>
 
@@ -12,18 +12,18 @@ This project is meant to create fractals
 $> git clone https://github.com/bmoiroud/fractol.git && cd fractol && make
 ```
 
-## usage
+## Utilisation
 
 ``` bash
-$> ./fractol <fractal_number>
+$> ./fractol <numero_fractale>
 ```
 
-| Key         | Action         |
+| Touche      | Action         |
 |:-----------:|:---------------|
-| H           | help           |
-| R           | reset view     |
-| Esc         | exit           |
-| Space       | modify fractal |
-| Arrows      | move around    |
-| Mouse Wheel | zoom in/out    |
+| H           | aide           |
+| R           | réinitialiser la vue  |
+| Esc         | quitter        |
+| Espace         | modifier la fractale |
+| Touches fléchées     | déplacement    |
+| Molette de la souris | zoom           |
 
